@@ -1,0 +1,13 @@
+C:\Users\macie\dev\zadanie23\zadanie23\bin\Debug\netcoreapp3.1\zadanie23.exe
+C:\Users\macie\dev\zadanie23\zadanie23\bin\Debug\netcoreapp3.1\zadanie23.deps.json
+C:\Users\macie\dev\zadanie23\zadanie23\bin\Debug\netcoreapp3.1\zadanie23.runtimeconfig.json
+C:\Users\macie\dev\zadanie23\zadanie23\bin\Debug\netcoreapp3.1\zadanie23.runtimeconfig.dev.json
+C:\Users\macie\dev\zadanie23\zadanie23\bin\Debug\netcoreapp3.1\zadanie23.dll
+C:\Users\macie\dev\zadanie23\zadanie23\bin\Debug\netcoreapp3.1\zadanie23.pdb
+C:\Users\macie\dev\zadanie23\zadanie23\obj\Debug\netcoreapp3.1\zadanie23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\dev\zadanie23\zadanie23\obj\Debug\netcoreapp3.1\zadanie23.AssemblyInfoInputs.cache
+C:\Users\macie\dev\zadanie23\zadanie23\obj\Debug\netcoreapp3.1\zadanie23.AssemblyInfo.cs
+C:\Users\macie\dev\zadanie23\zadanie23\obj\Debug\netcoreapp3.1\zadanie23.csproj.CoreCompileInputs.cache
+C:\Users\macie\dev\zadanie23\zadanie23\obj\Debug\netcoreapp3.1\zadanie23.dll
+C:\Users\macie\dev\zadanie23\zadanie23\obj\Debug\netcoreapp3.1\zadanie23.pdb
+C:\Users\macie\dev\zadanie23\zadanie23\obj\Debug\netcoreapp3.1\zadanie23.genruntimeconfig.cache
